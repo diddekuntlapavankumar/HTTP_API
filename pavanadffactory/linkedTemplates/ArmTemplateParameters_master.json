@@ -5,16 +5,13 @@
 		"factoryName": {
 			"value": "pavanadffactory"
 		},
-		"adls_1_accountKey": {
+		"adls_http_accountKey": {
 			"value": ""
 		},
-		"adls_http_1_accountKey": {
-			"value": ""
+		"ls_http_properties_typeProperties_url": {
+			"value": "https://github.com/"
 		},
-		"adls_1_properties_typeProperties_url": {
-			"value": "https://bronzeazureadlsstorage.dfs.core.windows.net/"
-		},
-		"adls_http_1_properties_typeProperties_url": {
+		"adls_http_properties_typeProperties_url": {
 			"value": "https://bronzeazureadlsstorage.dfs.core.windows.net/"
 		},
 		"containerUri": {
